@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8"> <!--подключение кодировки-->
@@ -55,4 +55,3 @@
 
   <script src="script.js"></script>
 </body>
-</html> AI.html…]()
